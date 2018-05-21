@@ -12,8 +12,9 @@ namespace ConsoleApp2
         {
             var tt = 4;
             var yy = 5;
+            var zz = 6;
 
-            var ee = tt + yy;
+            var ee = tt + yy+zz;
             Console.WriteLine(ee);
             Console.Read();
 
